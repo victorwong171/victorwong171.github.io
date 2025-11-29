@@ -6,7 +6,7 @@
   <link href="https://victorwong171.github.io/atom.xml" rel="self"/>
   
   <link href="https://victorwong171.github.io/"/>
-  <updated>2025-09-20T13:19:59.513Z</updated>
+  <updated>2025-10-09T10:20:14.866Z</updated>
   <id>https://victorwong171.github.io/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>标准库context:协作式goroutine管理工具</title>
-    <link href="https://victorwong171.github.io/2025/09/21/2025092001/"/>
-    <id>https://victorwong171.github.io/2025/09/21/2025092001/</id>
+    <link href="https://victorwong171.github.io/2025/09/21/%E6%A0%87%E5%87%86%E5%BA%93context%E5%8D%8F%E4%BD%9C%E5%BC%8Fgoroutine%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7/"/>
+    <id>https://victorwong171.github.io/2025/09/21/%E6%A0%87%E5%87%86%E5%BA%93context%E5%8D%8F%E4%BD%9C%E5%BC%8Fgoroutine%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7/</id>
     <published>2025-09-20T20:48:23.000Z</published>
-    <updated>2025-09-20T13:19:59.513Z</updated>
+    <updated>2025-10-09T10:20:14.866Z</updated>
     
     <content type="html"><![CDATA[<ul><li><h2 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h2></li></ul><p>在goroutine的应用中，有些经典场景如：<strong>超时控制、派生goroutine管理、通用上下文传递</strong>等，因此官方在1.7版本引入了context库来提供便捷的解决方案。</p>]]></content>
     
@@ -51,8 +51,8 @@
   
   <entry>
     <title>defer的执行逻辑</title>
-    <link href="https://victorwong171.github.io/2025/09/21/2025092000/"/>
-    <id>https://victorwong171.github.io/2025/09/21/2025092000/</id>
+    <link href="https://victorwong171.github.io/2025/09/21/defer%E7%9A%84%E6%89%A7%E8%A1%8C%E9%80%BB%E8%BE%91/"/>
+    <id>https://victorwong171.github.io/2025/09/21/defer%E7%9A%84%E6%89%A7%E8%A1%8C%E9%80%BB%E8%BE%91/</id>
     <published>2025-09-20T19:47:05.000Z</published>
     <updated>2025-09-20T12:31:44.452Z</updated>
     
@@ -80,8 +80,8 @@
   
   <entry>
     <title>viper包加载蛇形字段配置失败</title>
-    <link href="https://victorwong171.github.io/2025/09/07/2025090700/"/>
-    <id>https://victorwong171.github.io/2025/09/07/2025090700/</id>
+    <link href="https://victorwong171.github.io/2025/09/07/viper%E5%8C%85%E5%8A%A0%E8%BD%BD%E8%9B%87%E5%BD%A2%E5%AD%97%E6%AE%B5%E9%85%8D%E7%BD%AE%E5%A4%B1%E8%B4%A5/"/>
+    <id>https://victorwong171.github.io/2025/09/07/viper%E5%8C%85%E5%8A%A0%E8%BD%BD%E8%9B%87%E5%BD%A2%E5%AD%97%E6%AE%B5%E9%85%8D%E7%BD%AE%E5%A4%B1%E8%B4%A5/</id>
     <published>2025-09-07T06:08:17.000Z</published>
     <updated>2025-09-06T22:50:48.506Z</updated>
     
@@ -104,8 +104,8 @@
   
   <entry>
     <title>对象构造方法</title>
-    <link href="https://victorwong171.github.io/2024/12/27/2024122700/"/>
-    <id>https://victorwong171.github.io/2024/12/27/2024122700/</id>
+    <link href="https://victorwong171.github.io/2024/12/27/%E5%AF%B9%E8%B1%A1%E6%9E%84%E9%80%A0%E6%96%B9%E6%B3%95/"/>
+    <id>https://victorwong171.github.io/2024/12/27/%E5%AF%B9%E8%B1%A1%E6%9E%84%E9%80%A0%E6%96%B9%E6%B3%95/</id>
     <published>2024-12-27T05:49:31.000Z</published>
     <updated>2024-12-26T22:14:22.386Z</updated>
     
@@ -131,8 +131,8 @@
   
   <entry>
     <title>使用私有空变量作为全局唯一key</title>
-    <link href="https://victorwong171.github.io/2024/12/26/2024122601/"/>
-    <id>https://victorwong171.github.io/2024/12/26/2024122601/</id>
+    <link href="https://victorwong171.github.io/2024/12/26/%E4%BD%BF%E7%94%A8%E7%A7%81%E6%9C%89%E7%A9%BA%E5%8F%98%E9%87%8F%E4%BD%9C%E4%B8%BA%E5%85%A8%E5%B1%80%E5%94%AF%E4%B8%80key/"/>
+    <id>https://victorwong171.github.io/2024/12/26/%E4%BD%BF%E7%94%A8%E7%A7%81%E6%9C%89%E7%A9%BA%E5%8F%98%E9%87%8F%E4%BD%9C%E4%B8%BA%E5%85%A8%E5%B1%80%E5%94%AF%E4%B8%80key/</id>
     <published>2024-12-26T05:37:54.000Z</published>
     <updated>2024-12-25T21:48:32.560Z</updated>
     
@@ -156,8 +156,8 @@
   
   <entry>
     <title>struct 内嵌 interface</title>
-    <link href="https://victorwong171.github.io/2024/12/26/2024122600/"/>
-    <id>https://victorwong171.github.io/2024/12/26/2024122600/</id>
+    <link href="https://victorwong171.github.io/2024/12/26/struct%E5%86%85%E5%B5%8Cinterface/"/>
+    <id>https://victorwong171.github.io/2024/12/26/struct%E5%86%85%E5%B5%8Cinterface/</id>
     <published>2024-12-26T05:23:13.000Z</published>
     <updated>2024-12-25T21:35:46.827Z</updated>
     
@@ -181,8 +181,8 @@
   
   <entry>
     <title>网易云音乐私有文件调整</title>
-    <link href="https://victorwong171.github.io/2024/12/25/2024122500/"/>
-    <id>https://victorwong171.github.io/2024/12/25/2024122500/</id>
+    <link href="https://victorwong171.github.io/2024/12/25/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E7%A7%81%E6%9C%89%E6%96%87%E4%BB%B6%E8%B0%83%E6%95%B4/"/>
+    <id>https://victorwong171.github.io/2024/12/25/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E7%A7%81%E6%9C%89%E6%96%87%E4%BB%B6%E8%B0%83%E6%95%B4/</id>
     <published>2024-12-25T09:00:00.000Z</published>
     <updated>2024-12-25T21:24:19.878Z</updated>
     
@@ -208,8 +208,8 @@
   
   <entry>
     <title>channel</title>
-    <link href="https://victorwong171.github.io/2024/12/20/2024121901/"/>
-    <id>https://victorwong171.github.io/2024/12/20/2024121901/</id>
+    <link href="https://victorwong171.github.io/2024/12/20/channel/"/>
+    <id>https://victorwong171.github.io/2024/12/20/channel/</id>
     <published>2024-12-19T20:22:48.000Z</published>
     <updated>2025-08-16T12:07:50.956Z</updated>
     
@@ -238,8 +238,8 @@
   
   <entry>
     <title>golang GMP模型</title>
-    <link href="https://victorwong171.github.io/2024/12/20/2024121900/"/>
-    <id>https://victorwong171.github.io/2024/12/20/2024121900/</id>
+    <link href="https://victorwong171.github.io/2024/12/20/golang-GMP%E6%A8%A1%E5%9E%8B/"/>
+    <id>https://victorwong171.github.io/2024/12/20/golang-GMP%E6%A8%A1%E5%9E%8B/</id>
     <published>2024-12-19T18:53:58.000Z</published>
     <updated>2025-08-04T18:26:14.848Z</updated>
     
@@ -268,8 +268,8 @@
   
   <entry>
     <title>红黑树</title>
-    <link href="https://victorwong171.github.io/2024/12/17/2024121700/"/>
-    <id>https://victorwong171.github.io/2024/12/17/2024121700/</id>
+    <link href="https://victorwong171.github.io/2024/12/17/%E7%BA%A2%E9%BB%91%E6%A0%91/"/>
+    <id>https://victorwong171.github.io/2024/12/17/%E7%BA%A2%E9%BB%91%E6%A0%91/</id>
     <published>2024-12-17T10:33:19.000Z</published>
     <updated>2024-12-25T01:22:25.525Z</updated>
     
@@ -295,8 +295,8 @@
   
   <entry>
     <title>数据库八股</title>
-    <link href="https://victorwong171.github.io/2024/11/26/2024112600/"/>
-    <id>https://victorwong171.github.io/2024/11/26/2024112600/</id>
+    <link href="https://victorwong171.github.io/2024/11/26/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%85%AB%E8%82%A1/"/>
+    <id>https://victorwong171.github.io/2024/11/26/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%85%AB%E8%82%A1/</id>
     <published>2024-11-26T09:47:41.000Z</published>
     <updated>2025-02-12T02:49:08.744Z</updated>
     
@@ -325,8 +325,8 @@
   
   <entry>
     <title>golang gc</title>
-    <link href="https://victorwong171.github.io/2024/09/27/2024092700/"/>
-    <id>https://victorwong171.github.io/2024/09/27/2024092700/</id>
+    <link href="https://victorwong171.github.io/2024/09/27/golang-gc/"/>
+    <id>https://victorwong171.github.io/2024/09/27/golang-gc/</id>
     <published>2024-09-27T08:00:01.000Z</published>
     <updated>2025-02-12T02:48:21.892Z</updated>
     
@@ -351,8 +351,8 @@
   
   <entry>
     <title>golang map</title>
-    <link href="https://victorwong171.github.io/2024/09/26/2024092601/"/>
-    <id>https://victorwong171.github.io/2024/09/26/2024092601/</id>
+    <link href="https://victorwong171.github.io/2024/09/26/golang-map%E8%AF%A6%E8%A7%A3/"/>
+    <id>https://victorwong171.github.io/2024/09/26/golang-map%E8%AF%A6%E8%A7%A3/</id>
     <published>2024-09-26T10:58:27.000Z</published>
     <updated>2025-08-05T18:53:25.395Z</updated>
     
@@ -382,8 +382,8 @@
   
   <entry>
     <title>hexo 图片路径生成问题</title>
-    <link href="https://victorwong171.github.io/2024/09/26/2024092600/"/>
-    <id>https://victorwong171.github.io/2024/09/26/2024092600/</id>
+    <link href="https://victorwong171.github.io/2024/09/26/hexo%E5%9B%BE%E7%89%87%E8%B7%AF%E5%BE%84%E7%94%9F%E6%88%90%E9%97%AE%E9%A2%98/"/>
+    <id>https://victorwong171.github.io/2024/09/26/hexo%E5%9B%BE%E7%89%87%E8%B7%AF%E5%BE%84%E7%94%9F%E6%88%90%E9%97%AE%E9%A2%98/</id>
     <published>2024-09-26T06:17:04.000Z</published>
     <updated>2024-09-25T22:29:22.249Z</updated>
     
@@ -406,34 +406,44 @@
   </entry>
   
   <entry>
-    <title>想写的角色</title>
-    <link href="https://victorwong171.github.io/2024/09/12/2024091200/"/>
-    <id>https://victorwong171.github.io/2024/09/12/2024091200/</id>
-    <published>2024-09-12T01:07:47.000Z</published>
-    <updated>2024-12-28T21:52:16.090Z</updated>
+    <title>golang map</title>
+    <link href="https://victorwong171.github.io/2024/09/18/golang-map/"/>
+    <id>https://victorwong171.github.io/2024/09/18/golang-map/</id>
+    <published>2024-09-18T14:39:02.000Z</published>
+    <updated>2024-12-17T04:22:21.081Z</updated>
     
-    <content type="html"><![CDATA[<ol><li>角色冷静 果决 强大 严谨 但是由于所属势力的倾颓 最终败给了一直以其为目标的新一代</li><li>有个神秘且强大的角色 能力是一语成谶 不论如何挣扎 也无法避免 原因是他从未来来的 一切都是历史的必然 总是挣扎 也只能改变路径 不能改变标志结果</li><li>有一对双生子，分别叫 祝福、诅咒 两人获得了很强大的规则之力，最终只要提及两人的名字即可影响现实</li><li></li></ol>]]></content>
+    <content type="html"><![CDATA[<ul><li><h2 id="引"><a href="#引" class="headerlink" title="引"></a>引</h2></li></ul><p>维基百科里这样定义 map：</p><blockquote><p>In computer science, an associative array, map, symbol table, or dictionary is an abstract data type composed of a collection of (key, value) pairs, such that each possible key appears at most once in the collection.</p></blockquote><ul><li><h2 id="算法基础"><a href="#算法基础" class="headerlink" title="算法基础"></a>算法基础</h2></li></ul><p>在<code>golang</code>中，map的实现主要是基于hash算法。而hash算法常常会出现碰撞的问题，一般有两种方式进行应对，一是链表地址(golang就采用了此方式)，再就是开放寻址法。</p><ul><li><h3 id="hash表-单向散列表"><a href="#hash表-单向散列表" class="headerlink" title="hash表(单向散列表)"></a>hash表(单向散列表)</h3></li></ul><p>通过建立key与elem的映射，达到高效查找key对应的elem，一般时间复杂度为O(1)。<br>举个简单的例子：</p><blockquote><p>仅用一个数组来实现哈希表。在哈希表中，我们将数组中的每个空位称为桶（bucket），每个桶可存储一个键值对。因此，查询操作就是找到 key 对应的桶，并在桶中获取 value 。<br>那么，如何基于 key 定位对应的桶呢？这是通过哈希函数（hash function）实现的。哈希函数的作用是将一个较大的输入空间映射到一个较小的输出空间<br>输入一个 key ，哈希函数的计算过程分为以下两步。</p><ol><li><p>通过某种哈希算法 hash() 计算得到哈希值。</p></li><li><p>将哈希值对桶数量（数组长度）capacity 取模，从而获取该 key 对应的数组索引 index 。<br><code>index = hash(key) % capacity</code></p></li></ol><p>随后，我们就可以利用 index 在哈希表中访问对应的桶，从而获取 value 。</p><p>设数组长度 capacity &#x3D; 100、哈希算法 hash(key) &#x3D; key ，易得哈希函数为 key % 100 。<br><img src="/img/hash_function.png"></p></blockquote><ul><li><h3 id="hash冲突"><a href="#hash冲突" class="headerlink" title="hash冲突"></a>hash冲突</h3></li></ul><p>从本质上看，哈希函数的作用是将所有 <code>key</code> 构成的输入空间映射到数组所有索引构成的输出空间，而输入空间往往远大于输出空间。因此，<strong>理论上一定存在“多个输入对应相同输出”的情况</strong>。<br>对于上述示例中的哈希函数，当输入的 <code>key</code> 后两位相同时，哈希函数的输出结果也相同。例如，查询学号为 12836 和 20336 的两个学生时，我们得到：</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs shell">12836 % 100 = 36<br>20336 % 100 = 36<br></code></pre></td></tr></table></figure><p>两个学号指向了同一个姓名，这显然是不对的。我们将这种多个输入对应同一输出的情况称为哈希冲突（hash collision）<br><img src="/img/hash_collision.png"></p><blockquote><p>解决hash冲突有两种方法</p><ol><li>链式地址<br>在原始哈希表中，每个桶仅能存储一个键值对。链式地址（separate chaining）将单个元素转换为链表，将键值对作为链表节点，将所有发生冲突的键值对都存储在同一链表中。<br><img src="/img/hash_table_chaining.png"><br>基于链式地址实现的哈希表的操作方法发生了以下变化。</li></ol><ul><li><strong>查询元素</strong>：输入 <code>key</code> ，经过哈希函数得到桶索引，即可访问链表头节点，然后遍历链表并对比 <code>key</code> 以查找目标键值对。</li><li><strong>添加元素</strong>：首先通过哈希函数访问链表头节点，然后将节点（键值对）添加到链表中。</li><li><strong>删除元素</strong>：根据哈希函数的结果访问链表头部，接着遍历链表以查找目标节点并将其删除。<br>链式地址存在以下局限性。</li><li><strong>占用空间增大</strong>：链表包含节点指针，它相比数组更加耗费内存空间。</li><li><strong>查询效率降低</strong>：因为需要线性遍历链表来查找对应元素。<br>值得注意的是，当链表很长时，查询效率 $O(n)$ 很差。<strong>此时可以将链表转换为“AVL 树”或“红黑树”</strong>，从而将查询操作的时间复杂度优化至 $O(\log n)$ 。</li></ul><ol start="2"><li>开放寻址<br><u>开放寻址（open addressing）</u>不引入额外的数据结构，而是通过“多次探测”来处理哈希冲突，探测方式主要包括线性探测、平方探测和多次哈希等。<br>下面以线性探测为例，介绍开放寻址哈希表的工作机制。<br>线性探测采用固定步长的线性搜索来进行探测，其操作方法与普通哈希表有所不同。</li></ol><ul><li><strong>插入元素</strong>：通过哈希函数计算桶索引，若发现桶内已有元素，则从冲突位置向后线性遍历（步长通常为 $1$ ），直至找到空桶，将元素插入其中。</li><li><strong>查找元素</strong>：若发现哈希冲突，则使用相同步长向后进行线性遍历，直到找到对应元素，返回 <code>value</code> 即可；如果遇到空桶，说明目标元素不在哈希表中，返回 <code>None</code> 。<br>下图展示了开放寻址（线性探测）哈希表的键值对分布。根据此哈希函数，最后两位相同的 <code>key</code> 都会被映射到相同的桶。而通过线性探测，它们被依次存储在该桶以及之下的桶中。<br><img src="/img/hash_table_linear_probing.png"><br>然而，<strong>线性探测容易产生“聚集现象”</strong>。具体来说，数组中连续被占用的位置越长，这些连续位置发生哈希冲突的可能性越大，从而进一步促使该位置的聚堆生长，形成恶性循环，最终导致增删查改操作效率劣化。<br>值得注意的是，<strong>我们不能在开放寻址哈希表中直接删除元素</strong>。这是因为删除元素会在数组内产生一个空桶 <code>None</code> ，而当查询元素时，线性探测到该空桶就会返回，因此在该空桶之下的元素都无法再被访问到，程序可能误判这些元素不存在.<br>为了解决该问题，我们可以采用<u>懒删除（lazy deletion）</u>机制：它不直接从哈希表中移除元素，<strong>而是利用一个常量 <code>TOMBSTONE</code> 来标记这个桶</strong>。在该机制下，<code>None</code> 和 <code>TOMBSTONE</code> 都代表空桶，都可以放置键值对。但不同的是，线性探测到 <code>TOMBSTONE</code> 时应该继续遍历，因为其之下可能还存在键值对。<br>然而，<strong>懒删除可能会加速哈希表的性能退化</strong>。这是因为每次删除操作都会产生一个删除标记，随着 <code>TOMBSTONE</code> 的增加，搜索时间也会增加，因为线性探测可能需要跳过多个 <code>TOMBSTONE</code> 才能找到目标元素。<br>为此，考虑在线性探测中记录遇到的首个 <code>TOMBSTONE</code> 的索引，并将搜索到的目标元素与该 <code>TOMBSTONE</code> 交换位置。这样做的好处是当每次查询或添加元素时，元素会被移动至距离理想位置（探测起始点）更近的桶，从而优化查询效率。</li></ul></blockquote><p>容易想到，哈希表容量越大，多个 key 被分配到同一个桶中的概率就越低，冲突就越少。因此，我们可以通过扩容哈希表来减少哈希冲突。</p><ul><li><h3 id="hash扩容"><a href="#hash扩容" class="headerlink" title="hash扩容"></a>hash扩容</h3></li></ul><p>类似于数组扩容，哈希表扩容需将所有键值对从原哈希表迁移至新哈希表，非常耗时；并且由于哈希表容量 <code>capacity</code> 改变，我们需要通过哈希函数来重新计算所有键值对的存储位置，这进一步增加了扩容过程的计算开销。为此，编程语言通常会预留足够大的哈希表容量，防止频繁扩容。<br>负载因子（load factor）是哈希表的一个重要概念，其定义为哈希表的元素数量除以桶数量，用于衡量哈希冲突的严重程度，<strong>也常作为哈希表扩容的触发条件</strong>。例如在 golang 中，当负载因子超过 $0.65$ 时，系统会将哈希表扩容至原先的 $2$ 倍。</p><ul><li><h2 id><a href="#" class="headerlink" title></a></h2></li></ul>]]></content>
     
     
       
       
-    <summary type="html">&lt;ol&gt;
-&lt;li&gt;角色冷静 果决 强大 严谨 但是由于所属势力的倾颓 最终败给了一直以其为目标的新一代&lt;/li&gt;
-&lt;li&gt;有个神秘且强大的角色 能力是一语成谶 不论如何挣扎 也无法避免 原因是他从未来来的 一切都是历史的必然 总是挣扎 也只能改变路径 不能改变标志结果&lt;/li&gt;
-</summary>
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;&lt;h2 id=&quot;引&quot;&gt;&lt;a href=&quot;#引&quot; class=&quot;headerlink&quot; title=&quot;引&quot;&gt;&lt;/a&gt;引&lt;/h2&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;维基百科里这样定义 map：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In computer scienc</summary>
       
     
     
     
-    <category term="idea snapshot" scheme="https://victorwong171.github.io/categories/idea-snapshot/"/>
+    <category term="面试题" scheme="https://victorwong171.github.io/categories/%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
     
+    <category term="基础知识" scheme="https://victorwong171.github.io/categories/%E9%9D%A2%E8%AF%95%E9%A2%98/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/"/>
+    
+    
+    <category term="golang" scheme="https://victorwong171.github.io/tags/golang/"/>
+    
+    <category term="hash" scheme="https://victorwong171.github.io/tags/hash/"/>
+    
+    <category term="map" scheme="https://victorwong171.github.io/tags/map/"/>
     
   </entry>
   
   <entry>
     <title>goroutine 排队、调度</title>
-    <link href="https://victorwong171.github.io/2024/06/26/2024062500/"/>
-    <id>https://victorwong171.github.io/2024/06/26/2024062500/</id>
+    <link href="https://victorwong171.github.io/2024/06/26/goroutine%E6%8E%92%E9%98%9F%E8%B0%83%E5%BA%A6/"/>
+    <id>https://victorwong171.github.io/2024/06/26/goroutine%E6%8E%92%E9%98%9F%E8%B0%83%E5%BA%A6/</id>
     <published>2024-06-25T20:04:43.000Z</published>
     <updated>2024-06-25T12:59:32.038Z</updated>
     
@@ -459,8 +469,8 @@
   
   <entry>
     <title>浏览器与服务器实时通信</title>
-    <link href="https://victorwong171.github.io/2024/06/04/2024060400/"/>
-    <id>https://victorwong171.github.io/2024/06/04/2024060400/</id>
+    <link href="https://victorwong171.github.io/2024/06/04/%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%AE%9E%E6%97%B6%E9%80%9A%E4%BF%A1/"/>
+    <id>https://victorwong171.github.io/2024/06/04/%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%AE%9E%E6%97%B6%E9%80%9A%E4%BF%A1/</id>
     <published>2024-06-04T09:23:43.000Z</published>
     <updated>2024-06-04T05:19:50.210Z</updated>
     
@@ -492,38 +502,9 @@
   </entry>
   
   <entry>
-    <title>terraform实践</title>
-    <link href="https://victorwong171.github.io/2024/05/30/2024053001/"/>
-    <id>https://victorwong171.github.io/2024/05/30/2024053001/</id>
-    <published>2024-05-30T09:52:55.000Z</published>
-    <updated>2024-12-25T01:22:57.960Z</updated>
-    
-    <content type="html"><![CDATA[<ul><li><h3 id="选型对比"><a href="#选型对比" class="headerlink" title="选型对比"></a>选型对比</h3></li></ul><p>之前现场需要做云上资源的运维，然后客户需要一个可靠的运维方案，经过粗筛最终决定在<code>terraform</code>和<code>ansible</code>中进行抉择。</p><table><thead><tr><th>特性</th><th>Terraform</th><th>Ansible</th></tr></thead><tbody><tr><td><strong>主要用途</strong></td><td>声明式基础设施管理，资源创建和更新</td><td>配置管理，应用部署，自动化任务</td></tr><tr><td><strong>语法</strong></td><td>HCL (HashiCorp Configuration Language) 或 JSON</td><td>YAML</td></tr><tr><td><strong>执行模型</strong></td><td>中心化的声明式，资源状态管理</td><td>分布式的任务驱动，基于事件</td></tr><tr><td><strong>资源管理</strong></td><td>明确的资源创建、更新和删除</td><td>主要关注配置状态，不直接管理资源生命周期</td></tr><tr><td><strong>多云支持</strong></td><td>广泛支持，跨平台，多云友好</td><td>支持多种云，但更侧重于本地和私有云</td></tr><tr><td><strong>依赖管理</strong></td><td>内建依赖解析，自动排序资源应用</td><td>需要手动管理依赖关系</td></tr><tr><td><strong>变更管理</strong></td><td><code>terraform plan</code> 预先查看变更，<code>apply</code> 应用变更</td><td>通过playbook执行，没有预览变更的功能</td></tr><tr><td><strong>执行方式</strong></td><td>通过命令行工具执行，需要安装Terraform CLI</td><td>通过playbook执行，通常通过Ansible Tower或SSH</td></tr><tr><td><strong>无代理部署</strong></td><td>不需要目标主机上的代理</td><td>需要在目标主机上安装Agent或使用SSH</td></tr><tr><td><strong>安全性</strong></td><td>支持访问控制，如Terraform Cloud</td><td>支持加密凭据，但需要额外的管理</td></tr><tr><td><strong>社区支持</strong></td><td>活跃的社区，丰富的模块和插件</td><td>广泛的社区，丰富的角色和模块</td></tr></tbody></table><p>对比下来，<code>terraform</code>可以对变更进行预览，也能直接管理资源，故选择<code>terraform</code>。</p><ul><li><h3 id="terraform-简述"><a href="#terraform-简述" class="headerlink" title="terraform 简述"></a>terraform 简述</h3></li></ul><p>terraform 主要是</p><p><img src="/img/assets.avif" alt="Terraform deployment workflow"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;ul&gt;
-&lt;li&gt;&lt;h3 id=&quot;选型对比&quot;&gt;&lt;a href=&quot;#选型对比&quot; class=&quot;headerlink&quot; title=&quot;选型对比&quot;&gt;&lt;/a&gt;选型对比&lt;/h3&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;之前现场需要做云上资源的运维，然后客户需要一个可靠的运维方案，经过粗筛最终决定在&lt;</summary>
-      
-    
-    
-    
-    <category term="wip" scheme="https://victorwong171.github.io/categories/wip/"/>
-    
-    
-    <category term="devops" scheme="https://victorwong171.github.io/tags/devops/"/>
-    
-    <category term="terraform" scheme="https://victorwong171.github.io/tags/terraform/"/>
-    
-  </entry>
-  
-  <entry>
     <title>在github发布自己的依赖</title>
-    <link href="https://victorwong171.github.io/2024/05/30/2024053000/"/>
-    <id>https://victorwong171.github.io/2024/05/30/2024053000/</id>
+    <link href="https://victorwong171.github.io/2024/05/30/%E5%9C%A8github%E5%8F%91%E5%B8%83%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BE%9D%E8%B5%96/"/>
+    <id>https://victorwong171.github.io/2024/05/30/%E5%9C%A8github%E5%8F%91%E5%B8%83%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BE%9D%E8%B5%96/</id>
     <published>2024-05-30T09:27:10.000Z</published>
     <updated>2024-05-30T01:43:41.448Z</updated>
     
@@ -541,9 +522,9 @@
     <category term="教程" scheme="https://victorwong171.github.io/categories/%E6%95%99%E7%A8%8B/"/>
     
     
-    <category term="github" scheme="https://victorwong171.github.io/tags/github/"/>
-    
     <category term="golang" scheme="https://victorwong171.github.io/tags/golang/"/>
+    
+    <category term="github" scheme="https://victorwong171.github.io/tags/github/"/>
     
     <category term="go modules" scheme="https://victorwong171.github.io/tags/go-modules/"/>
     
@@ -551,8 +532,8 @@
   
   <entry>
     <title>linux串口通信 接收信息不完整 读取不全</title>
-    <link href="https://victorwong171.github.io/2024/05/17/2024051602/"/>
-    <id>https://victorwong171.github.io/2024/05/17/2024051602/</id>
+    <link href="https://victorwong171.github.io/2024/05/17/linux%E4%B8%B2%E5%8F%A3%E9%80%9A%E4%BF%A1%E6%8E%A5%E6%94%B6%E4%BF%A1%E6%81%AF%E4%B8%8D%E5%AE%8C%E6%95%B4/"/>
+    <id>https://victorwong171.github.io/2024/05/17/linux%E4%B8%B2%E5%8F%A3%E9%80%9A%E4%BF%A1%E6%8E%A5%E6%94%B6%E4%BF%A1%E6%81%AF%E4%B8%8D%E5%AE%8C%E6%95%B4/</id>
     <published>2024-05-16T17:50:10.000Z</published>
     <updated>2024-05-16T09:50:56.877Z</updated>
     
@@ -570,11 +551,40 @@
     <category term="异常" scheme="https://victorwong171.github.io/categories/%E5%BC%82%E5%B8%B8/"/>
     
     
-    <category term="linux" scheme="https://victorwong171.github.io/tags/linux/"/>
-    
     <category term="串口通信" scheme="https://victorwong171.github.io/tags/%E4%B8%B2%E5%8F%A3%E9%80%9A%E4%BF%A1/"/>
     
+    <category term="linux" scheme="https://victorwong171.github.io/tags/linux/"/>
+    
     <category term="c++" scheme="https://victorwong171.github.io/tags/c/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>sed: -e expression #1, char 0: no previous regular expression</title>
+    <link href="https://victorwong171.github.io/2024/05/16/sed%E8%A1%A8%E8%BE%BE%E5%BC%8F%E9%94%99%E8%AF%AF/"/>
+    <id>https://victorwong171.github.io/2024/05/16/sed%E8%A1%A8%E8%BE%BE%E5%BC%8F%E9%94%99%E8%AF%AF/</id>
+    <published>2024-05-16T15:17:10.000Z</published>
+    <updated>2024-05-16T09:51:02.885Z</updated>
+    
+    <content type="html"><![CDATA[<p>执行</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">sed -i -e <span class="hljs-string">&quot;s/<span class="hljs-variable">$ori</span>/<span class="hljs-variable">$curr</span>/g&quot;</span> <span class="hljs-variable">$CONF</span><br></code></pre></td></tr></table></figure><p>报错 <code>sed: -e expression #1, char 0: no previous regular expression</code></p><p>是因为 <code>$ori</code> 为空</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;执行&lt;/p&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;</summary>
+      
+    
+    
+    
+    <category term="异常" scheme="https://victorwong171.github.io/categories/%E5%BC%82%E5%B8%B8/"/>
+    
+    
+    <category term="linux" scheme="https://victorwong171.github.io/tags/linux/"/>
+    
+    <category term="sed" scheme="https://victorwong171.github.io/tags/sed/"/>
+    
+    <category term="shell" scheme="https://victorwong171.github.io/tags/shell/"/>
     
   </entry>
   
